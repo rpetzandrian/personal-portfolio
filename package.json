@@ -1,7 +1,11 @@
 {
   "name": "personal-portfolio",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
+  "author": {
+    "name": "Rico Andrian Firmansyah",
+    "email": "rpetzandrian@gmail.com"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,19 +13,28 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.4"
+    "@fortawesome/fontawesome-svg-core": "~6.5.2",
+    "@fortawesome/free-brands-svg-icons": "~6.5.2",
+    "@fortawesome/free-regular-svg-icons": "~6.5.2",
+    "@fortawesome/free-solid-svg-icons": "~6.5.2",
+    "@fortawesome/react-fontawesome": "~0.2.0",
+    "clsx": "~2.1.0",
+    "framer-motion": "~11.0.24",
+    "next": "14.1.4",
+    "react": "~18",
+    "react-dom": "~18",
+    "react-element-to-jsx-string": "~15.0.0",
+    "tailwind-merge": "~2.2.2"
   },
   "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "autoprefixer": "^10.0.1",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0",
-    "eslint": "^8",
-    "eslint-config-next": "14.1.4"
+    "@types/node": "~20",
+    "@types/react": "~18",
+    "@types/react-dom": "~18",
+    "autoprefixer": "~10.0.1",
+    "eslint": "~8",
+    "eslint-config-next": "14.1.4",
+    "postcss": "~8",
+    "tailwindcss": "~3.3.0",
+    "typescript": "~5"
   }
 }
