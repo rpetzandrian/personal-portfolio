@@ -1,0 +1,111 @@
+{
+    "profile": {
+        "name": "Rico Andrian",
+        "title": "Software Engineer",
+        "email": "rpetzandrian@gmail.com",
+        "phone": "+6285701780405",
+        "birthday": "March, 13 2003",
+        "linkedin": "https://www.linkedin.com/in/ricoandrian",
+        "github": "https://github.com/rpetzandrian",
+        "location": "Central Java, Indonesia",
+        "about": "Experienced Backend Software Engineer with over 2 years of hands-on experience, specializing in JavaScript, TypeScript, and Go. Proficient in designing, developing, and maintaining high-performance backend systems with a keen focus on scalability, reliability, and security. Skilled in utilizing cloud services and deploying applications on various platforms such as AWS, Google Cloud, and Azure. Expertise includes working with SQL and NoSQL databases to efficiently store and retrieve data, ensuring optimal performance and data integrity. Well-versed in Continuous Integration/Continuous Deployment (CI/CD) practices, streamlining the software development lifecycle and enabling rapid delivery of features. Proven track record in optimizing system architecture and implementing best practices to ensure the continuous availability of critical APIs, thereby enhancing overall user experience. Seeking a collaborative environment where I can leverage my skills to contribute to impactful projects and further enhance my expertise in backend development."
+    },
+    "education": [
+        {
+            "degree": "Bachelor of Computer Science",
+            "school": "Telkom University ( Online Class )",
+            "from": "2023",
+            "to": "2027",
+            "description": ""
+        },
+        {
+            "degree": "Fulltack Javascript Developer",
+            "school": "Fazztrack Coding Bootcamp",
+            "from": "2021",
+            "to": "2021",
+            "description": "Trained to be FullStack Software Engineer, build Project JavaScript Stack, Implement Software Architecture. Work as a Team with Agile Concept."
+        }
+    ],
+    "experience": [
+        {
+            "title": "Software Engineer Backend",
+            "company": "Rey ID",
+            "location": "Jakarta, Indonesia",
+            "dates": "2021 - present",
+            "description": "Developed core systems, including subscription, payment feature ( include Rey-Card to provide cashless claim payment ), and user management, to improve the scalability of subscriptions by creating the possibility of users having multiple subscriptions, using auto‐deducted payment, and flexible user management by themselves"
+        },
+        {
+            "title": "Backend Developer Freelance",
+            "company": "Digitalize",
+            "location": "Jakarta, Indonesia",
+            "dates": "03/2023 - 10/2023",
+            "description": "Developed an interactive quiz app for early childhood education assessment using Golang. The app features engaging and age‐appropriate question types, including multiple choice, true/false, and fill‐in‐the‐blank. The quiz interface is designed to be intuitive and child‐friendly, incorporating animations, sounds, and attractive graphics. The app also includes internal tools for question, student, and quiz data management, including creation, editing, and data storage"
+        },
+        {
+            "title": "Internship Fullstack Software Engineer",
+            "company": "Rey ID",
+            "location": "Jakarta, Indonesia ( Remote )",
+            "dates": "09/2021 - 12/2021",
+            "description": "Created internal web‐based applications for company employees to access information on user subscriptions, customer profiles, transaction history, and charting data"
+        }
+    ],
+    "skill": [
+        {
+            "name": "JavaScript",
+            "assets": "/assets/images/javascript.svg"
+        },
+        {
+            "name": "TypeScript",
+            "assets": "/assets/images/typescript.svg"
+        },
+        {
+            "name": "Golang",
+            "assets": "/assets/images/go.svg"
+        },
+        {
+            "name": "React JS",
+            "assets": "/assets/images/react.svg"
+        },
+        {
+            "name": "Next JS",
+            "assets": "/assets/images/nextjs.svg"
+        },
+        {
+            "name": "Docker",
+            "assets": "/assets/images/docker.svg"
+        },
+        {
+            "name": "Kubernetes",
+            "assets": "/assets/images/kubernetes.svg"
+        },
+        {
+            "name": "PostgresSQL",
+            "assets": "/assets/images/postgres.svg"
+        },
+        {
+            "name": "MySQL",
+            "assets": "/assets/images/mysql.svg"
+        },
+        {
+            "name": "MongoDB",
+            "assets": "/assets/images/mongo.svg"
+        }
+    ],
+    "doing": [
+        {
+            "title": "Backend Developer",
+            "description": "Building robust server-side logic for web apps with JavaScript, TypeScript, and Go, optimizing performance and ensuring data integrity.",
+            "tag": "be"
+        },
+        {
+            "title": "Frontend Developer",
+            "description": "Creating sleek user interfaces using HTML, CSS, and JS frameworks like React JS, Next JS emphasizing user experience.",
+            "tag": "fe"
+        },
+        {
+            "title": "DevOps",
+            "description": "Automating software development with tools like Github Action, CI/CD, Docker, and Kubernetes, ensuring smooth deployments on cloud platforms.",
+            "tag": "devops"
+        }
+    ]
+}
